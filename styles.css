@@ -1,0 +1,58 @@
+body {
+    font-family: Roboto, sans-serif;
+    
+}
+img {
+    width: 100%;
+    height: auto;
+}
+.header {
+    display: flex;
+    background-color: #1f2937;
+    color: #f9faf8;
+    justify-content: space-between;
+}
+.header div {
+display: flex;
+padding: 24px 48px;
+
+}
+.hero {
+    display: flex;
+    background-color: #1f2937;
+    
+    
+}
+.hero div {
+    background-color: #1f2937;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+    padding: 24px 48px;
+}
+.CTA {
+    background-color: blue;
+
+}
+.body {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+.randominfo {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+    text-align: center;
+}
+
+.fourby {
+    display: flex;
+    justify-content: center;
+    padding: 24px 48px;
+}
